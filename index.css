@@ -19,6 +19,5 @@ model-viewer {
     background: -moz-linear-gradient(blue, pink);
 }
 div {
-    height: auto;
     width: 50%;
 }
