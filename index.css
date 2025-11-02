@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background: -moz-linear-gradient(blue, pink);
+    background: linear-gradient(blue, pink);
 }
 /*ховаємо значок мобільного телефону*/
 #ar-prompt {
@@ -12,5 +12,5 @@
 model-viewer {
     height: 100vh;
     width: 100%;
-    background: -moz-linear-gradient(blue, pink);
+    background: linear-gradient(blue, pink);
 }
